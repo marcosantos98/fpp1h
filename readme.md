@@ -25,6 +25,8 @@ This code is my attempt to do it in one hour.
 Only finished 4 out of 5 problems. :worried:
 Tried the last problem but didn't find a solution in time.
 
+- Solution for problem 5 - https://github.com/rexim/five-programming-problems/blob/master/src/main/java/me/rexim/fiveproblems/Problem5.java
+
 ### How to run:
 
 ```shell
